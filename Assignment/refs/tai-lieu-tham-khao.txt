@@ -1,0 +1,15 @@
+
+DƯỚI ĐÂY LÀ NGUỒN TÀI LIỆU MÀ NHÓM THAM KHẢO ĐỂ THỰC HIỆN BÀI TẬP LỚN
+
+[1] Wikipedia - RSA. (cryptosystem)
+    https://en.wikipedia.org/wiki/RS
+
+[2] Vinh Phạm - RSA là gì? Cách thức hoạt động của mã hóa RSA.
+    https://bizflycloud.vn/tin-tuc/rsa-la-gi-20220506153312797.htm
+
+[3] manhhomienbienthuy - Hệ mã RSA và chữ ký số.
+    https://viblo.asia/p/he-ma-hoa-rsa-va-chu-ky-so-6J3ZgkgMZmB
+
+
+
+LINK GITHUB REPOSITORY CỦA PROJECT ĐÃ ĐƯỢC UPLOAD PUBLIC: https://github.com/chequanghuyca/MatmaAnninhmang-RSA
